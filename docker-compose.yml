@@ -1,8 +1,8 @@
 version: '3.8'
 
 services:
-  restart: always
   web:
+    restart: always
     build: .
     ports:
       - "8055:8055"
