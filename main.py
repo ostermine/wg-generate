@@ -44,7 +44,7 @@ DNS = {dns}
 PublicKey = {server_pubkey}
 AllowedIPs = {allowed_ips}
 Endpoint = {endpoint}
-        """
+"""
 
 
 if __name__ == "__main__":
